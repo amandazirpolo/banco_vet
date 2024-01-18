@@ -75,5 +75,6 @@ para a sociedade, meios para a socialização dos resultados, publicações, etc
 | Amanda S. Zírpolo      | https://github.com/amandazirpolo  | amandazirpolo@id.uff.br |
 
 <h6>Tutor do grupo: <a href='https://www.telecom.uff.br/~delavega/'>Alexandre Santos de La Vega</a></h6>
+<img align='center' src='images/logo_pet_tele.png' width=20%/>
 <hr>
 <i align='center'>Universidade Federal Fluminense, 2023.</i>
